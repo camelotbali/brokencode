@@ -1,0 +1,5 @@
+I think it is a 2-step process.
+
+1) use cvss2svn to migrate from CVS to a temp SVN repository. - http://cvs2svn.tigris.org/cvs2svn.html
+
+2) Use SVN importer for stash - https://marketplace.atlassian.com/plugins/org.tmatesoft.subgit.stash-svn-importer
